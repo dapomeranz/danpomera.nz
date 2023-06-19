@@ -21,6 +21,7 @@ p {
   font-weight: normal;
   color: #000000;
   background-color: #ffffff;
+  text-align: justify;
 }
 
 button {
