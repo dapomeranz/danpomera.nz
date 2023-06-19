@@ -3,8 +3,6 @@ body {
   background-repeat: no-repeat;
   background-position: top left;
   background-attachment: fixed;
-  margin-left: 2vh;
-  margin-right: 0;
   padding-right: 0;
 }
 
@@ -33,6 +31,7 @@ button {
 .right-image {
   max-height: 60vh;
   float: right;
+  margin-right: 0;
 }
 
 @media only screen and (max-width: 768px) {
